@@ -1,0 +1,226 @@
+body {
+  margin: 0;
+  font-family: "Courier New";
+  /*background-color: black;*/
+  background-color: #ab1ee3;
+}
+
+div#tooltip {
+    position: absolute;
+    border: 3px solid #73AD21;
+    background-color: white;
+}
+
+.task_text {
+    font-family: Arial, sans-serif;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+#t_desc, #rules{
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    text-align: left;
+    line-height: 1.6;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    color: #9ef675;
+    white-space: pre-wrap;
+}
+
+rect {
+  stroke: #000;
+  stroke-width: 0.5px;
+
+}
+
+.contractorclones {
+  stroke: #000;
+  stroke-width: 0px;
+
+}
+
+.check {
+    width: 50px;
+    height: 80px;
+    outline: 1px solid red;
+    position: relative;
+}
+
+p {
+  white-space: pre-wrap;
+}
+
+#active {
+  color: red;
+}
+
+.overlord_rect {
+	stroke-width: 0px;
+	filter: blur(0px);
+	transition: 0.4s filter linear;
+}
+
+#intro {
+    background-color: black;
+}
+
+#intro2 {
+        padding: 100px;
+        margin: 50px;
+        text-align: justify;
+        justify-content: flex-end;
+}
+
+ /*#tasks {
+
+ }*/
+
+div.svgdiv {
+	position : relative;
+	top : 20px;
+    left: 5px;
+}
+
+div.seldiv {
+    position: fixed;
+    top: 0;
+    left: 300px;
+    width: 1500px;
+    border: 0px solid #73AD21;
+}
+
+div#tasks {
+  width: 100%;
+  height: 100%;
+  background: #000;
+  overflow: hidden;
+}
+
+div#chart{
+    position: absolute;
+    overflow: scroll;
+    width: 100%;
+    height: 100%;
+    /*background-image: url("images/dad1.png");*/
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(images/dad1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#aud{
+    visibility: hidden;
+}
+
+.selected_task{
+    position: fixed;
+    /*pointer-events: none;*/
+    /*height: 33%;
+    width: 33%;*/
+    /*margin: 100 auto;*/
+}
+
+.blur   {
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+}
+
+rect {
+    /*padding: 10px;
+    margin: 10px;*/
+}
+
+rect.todo{
+    filter: url(#drop-shadow);
+    fill: steelblue;
+    stroke-width: 2px;
+}
+
+rect.empty{
+    filter: url(#drop-shadow);
+    fill: white;
+    stroke-width: 2px;
+    stroke:#1c0c0c;
+}
+
+rect.done{
+    filter: url(#drop-shadow);
+    fill: #22ac16;
+    stroke-width: 2px;
+}
+
+rect.in_progress{
+    filter: url(#drop-shadow);
+    fill: coral;
+    stroke-width: 2px;
+}
+
+#ret_text:hover, ._tbc:hover{
+    text-decoration: underline;
+}
+
+#sw_audio{
+    visibility: hidden;
+}
+
+#task_svg{
+    position: absolute;
+    width: 100%;
+    /*overflow: scroll;*/
+}
+
+.fade {
+  position: relative;
+  width: 100%;
+  min-height: 60vh;
+  top: -25px;
+  background-image: linear-gradient(0deg, transparent, black 75%);
+  z-index: 1;
+}
+
+.star-wars {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 800px;
+  color: #feda4a;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 500%;
+  font-weight: 600;
+  letter-spacing: 6px;
+  line-height: 150%;
+  perspective: 400px;
+  text-align: justify;
+  /*background-color: black;*/
+}
+
+.crawl {
+  position: relative;
+  top: 99999px;
+  transform-origin: 50% 100%;
+  animation: crawl 65s linear;
+}
+
+.crawl > .title {
+  font-size: 90%;
+  text-align: center;
+}
+
+.crawl > .title h1 {
+  margin: 0 0 100px;
+  text-transform: uppercase;
+}
+
+@keyframes crawl {
+    0% {
+    top: -100px;
+    transform: rotateX(20deg)  translateZ(0);
+  }
+    100% {
+    top: -6000px;
+    transform: rotateX(25deg) translateZ(-2500px);
+  }
+}

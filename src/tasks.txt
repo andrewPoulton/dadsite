@@ -1,0 +1,304 @@
+tasks = [
+  {
+    "chosen_by": "fam",
+    "task": "Andrew to take you to a show/event/concert",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Apply to go on a TV quiz show of your choice",
+    "done": "yes",
+    "quote": "Strictly counts, right?"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Build a bird box",
+    "done": "yes",
+    "quote": "I built a bird box."
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Challenge Big Robin to crazy golf – with an adoring crowd to watch",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Complete and submit the competition crossword – at least 5 times",
+    "done": "yes",
+    "quote": "The Beano's crossword game has really stepped up these last few years."
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Day out at the cricket",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Do more than 10,000 steps in a day, 4 days in a week (golf doesn’t count)",
+    "done": "yes",
+    "quote": "*vomits profusely*"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Dye remaining hair blue",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Eat dinner at a Michelin starred restaurant",
+    "done": "yes",
+    "quote": "The best tyres I've ever had."
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Get a Team together and do the ‘Crystal Maze’ experience in London",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Go bowling with the kids",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Have a champagne picnic on the hills",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Have a day out on a boat on the river",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Have a meal out, on Sandy, at a restaurant of your choice",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Identify a ‘challenge’ and raise money for charity (of your choice) doing it",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "John to take Rachel, Andrew, Robyn, Pete, Sandy (and Thomas) to an event",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Learn a new skill of your choice – lessons included if needed.",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Organise and cook a Bank Holiday barbeque",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Paint your fingernails a bright colour and wear around for 3 days.",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Pete to take John to rugby match wearing a Tigers top at Worcester",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Play a round of golf with only 2 different clubs",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Prepare and cook a romantic meal for your lovely wife as a surprise",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Rachel to take you to a show/event/concert",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Robyn to take you to a show/event/concert",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Sandy to take you to a show/event/concert",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Something nice for a complete stranger",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Take Thomas to the London Aquarium",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Visit the Richard III Exhibition in Leicester",
+    "done": "yes",
+    "quote": "If he's so great, then how come he's dead?"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Walk from the Hereford Beacon to the Worcester Beacon",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Watch a Shakespeare play at the Globe theatre",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Watch a sunrise and a sunset on the hills, photographic evidence, not necessarily the same day",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Wear your ‘I’m The Leader’ Tshirt (to be worn when family sees fit)",
+    "done": "no"
+  },
+  {
+    "chosen_by": "fam",
+    "task": "Write a 1500 word essay, critically thought through, ‘Why I’m the Leader’",
+    "done": "no"
+  },
+  {
+  "chosen_by" : "Ursula Mason",
+  "task" : "Drink a bottle of Gevrey Chambertin 1988",
+  "done" : "yes",
+  "quote" :"More like that please."
+  },
+  {
+  "chosen_by": "Dave and Eryl Rayner",
+  "task" : "Do a tandem sky dive",
+  "done": "no"
+  },
+  {
+  "chosen_by": "Dave and Eryl Rayner",
+  "task" : "Have dinner in the Sky Garden, London",
+  "done": "no"
+  },
+    {
+    "chosen_by": "Rob Harrison",
+    "task" : "Play golf at Portmarnock",
+    "done": "no"
+    },
+  {
+  "chosen_by": "Barry and ALison Tuck",
+  "task" : "Get name on board at the golf club",
+  "done": "no"
+  },
+    {
+    "chosen_by": "Richard Smith",
+    "task" : "Tell Sandy 'I Love you' in 60 different languages",
+    "done": "in_progress"
+    },
+  {
+  "chosen_by": "Simon Elliott",
+  "task" : "Survive a night out with Noel Nash",
+  "done": "no"
+  },
+    {
+    "chosen_by": "Peter Simpson",
+    "task" : "Day of indulgences as I choose",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Louise Truslow",
+    "task" : "Take an art workshop at Louise's studio",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Peter Evans",
+    "task" : "Have a duel on Wimbledon Common followed by a lot of beer",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Carey Leonard",
+    "task" : "Repeat infamous pub crawl",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Denise Longman",
+    "task" : "Write a children's book on the theme of Peter the Putter",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Derek Stevenson",
+    "task" : "Produce a limerick 'There was an old codger called John'...",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Heather Taylor",
+    "task" : "Gather sloes and make Sloe Gin",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Frances Martin",
+    "task" : "Wear Frances's beret for a round of golf",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Bill and Kathy Bellamy",
+    "task" : "Hit 5 out of 20 clay pigeons",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Mike Woodall",
+    "task" : "Climb down Elmshurt fire escape and go to the pub and chippy",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Mike Woodall",
+    "task" : "Perform a night assault on British Camp",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Mike Woodall",
+    "task" : "Attend OBEC on 5 May",
+    "done": "no"
+    },
+    {
+    "chosen_by": "John Connell",
+    "task" : "Attend cricket match at Headingly",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Steve O'Hanlon",
+    "task" : "Come and stay at Ringwood",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Steve O'Hanlon",
+    "task" : "Attend a curry lunch",
+    "done": "no"
+    },
+    {
+    "chosen_by": "Steve O'Hanlon",
+    "task" : "Attend a the Fittleworth lunch",
+    "done": "no"
+    },
+    {
+    "chosen_by": "JP, himself",
+    "task" : "Lose a stone",
+    "done": "no"
+    },
+    {
+    "chosen_by": "JP, himself",
+    "task" : "Lose another stone",
+    "done": "no"
+    },
+    {
+    "chosen_by": "JP, himself",
+    "task" : "Grow some vegetables in new trough",
+    "done": "no"
+    }
+]
